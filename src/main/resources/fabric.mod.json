@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "hoof_toggle_clothing",
+  "version": "${version}",
+
+  "name": "Hoofer's Clothing Toggle",
+  "description": "Toggles your clothing layers with a keybind!",
+  "authors": [
+    "Hoofer"
+  ],
+  "contact": {
+    "homepage": "https://iman.engineer/",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/hoof_toggle_clothing/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "engineer.iman.clothing.registry.Registry"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
