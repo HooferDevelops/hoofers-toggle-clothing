@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Hoofer's Toggle Clothing Mod
 
-## Setup
+A mod that allows you to toggle your clothing layers with one simple keybind which is customizable!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+![preview](https://cdn.discordapp.com/attachments/738968109288914976/785160813253886023/ypaZiJyqfj.gif)
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
